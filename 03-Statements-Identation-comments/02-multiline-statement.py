@@ -24,8 +24,8 @@ print("line continuation is implied inside parentheses ( ): ",a)
 #Same is the case with [ ] and { }
 
 names = ['sam',
-         'Joe',
-         'rita']
+        'Joe',
+        'rita']
 print(names)
 
 # We can also put multiple statements in a single line using semicolons, as follows:
