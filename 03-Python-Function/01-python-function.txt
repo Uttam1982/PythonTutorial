@@ -1,0 +1,46 @@
+#*****************************************************************************************
+# What is a function in Python?
+#*****************************************************************************************
+
+# 1. In Python, a function is a group of related statements that performs a specific task.
+
+# 2. Functions help break our program into smaller and modular chunks. 
+#    As our program grows larger and larger, functions make it more organized and manageable.
+
+# 3. Furthermore, it avoids repetition and makes the code reusable.
+
+#*****************************************************************************************
+# syntax for python
+#*****************************************************************************************
+
+# def fumction_name(parameters):
+#   '''docstrings'''
+#   statements(s)
+
+#*****************************************************************************************
+
+# 1. Keyword def that marks the start of the function header.
+
+# 2. A function name to uniquely identify the function. 
+
+# 3. Function naming follows the same rules of writing identifiers in Python.
+
+# 4. Parameters (arguments) through which we pass values to a function. They are optional.
+
+# 5. A colon (:) to mark the end of the function header.
+
+# 6. Optional documentation string (docstring) to describe what the function does.
+
+# 7. One or more valid python statements that make up the function body. 
+
+# 8. Statements must have the same indentation level (usually 4 spaces).
+
+# 9. An optional return statement to return a value from the function.
+
+#*****************************************************************************************
+
+# Types of Functions
+- Basically, we can divide functions into the following two types:
+
+1. Built-in functions - Functions that are built into Python.
+2. User-defined functions - Functions defined by the users themselves.
