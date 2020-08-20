@@ -11,6 +11,7 @@
 # implement it in the future. They cannot have an empty body. The interpreter would 
 # give an error. So, we use the pass statement to construct a body that does nothing.
 
+#*****************************************************************************************
 # Example: pass Statement
 
 '''pass is just a placeholder for
