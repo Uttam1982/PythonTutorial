@@ -1,0 +1,28 @@
+# Python Keywords
+
+- Keywords are the reserved words in Python.
+- We cannot use a keyword as a variable name, function name or any other identifier. 
+- In Python, keywords are case sensitive.
+- There are 33 keywords in Python 3.7. This number can vary slightly over the course of time.
+- All the keywords except True, False and None are in lowercase and they must be written as they are.
+
+********************************************************************************************************
+
+# Python Identifiers
+
+1. Identifiers can be a combination of letters in lowercase (a to z) or uppercase (A to Z) 
+  or digits (0 to 9) or an underscore _. 
+  - Names like myClass, var_1 and print_this_to_screen, all are valid example.
+
+2. An identifier cannot start with a digit. 
+  - 1variable is invalid, but variable1 is a valid name.
+
+3. Keywords cannot be used as identifiers.
+   - global = 1
+
+4. We cannot use special symbols like !, @, #, $, % etc. in our identifier.
+  - a@ = 0
+
+5. An identifier can be of any length.
+
+********************************************************************************************************
