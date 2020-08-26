@@ -1,0 +1,7 @@
+# How to import modules in Python?
+
+1. We can import the definitions inside a module to another module or 
+     the interactive interpreter in Python.
+
+2. We use the import keyword to do this.
+
