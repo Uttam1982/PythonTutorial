@@ -1,0 +1,30 @@
+# What are lambda functions in Python?
+----------------------------------------
+1. In Python, an anonymous function is a function that is defined without a name.
+
+2. anonymous functions are defined using the lambda keyword.
+
+***************************************************************************************
+# How to use lambda Functions in Python?
+------------------------------------------
+
+# Syntax of Lambda Function in python
+    lambda arguments: expression
+
+1. Lambda functions can have any number of arguments but only one expression. 
+2. The expression is evaluated and returned. 
+3. Lambda functions can be used wherever function objects are required.
+
+***************************************************************************************
+# Use of Lambda Function in python
+-----------------------------------
+
+1. We use lambda functions when we require a nameless function for a short period of time.
+
+2. In Python, we generally use it as an argument to a higher-order function (a function 
+   that takes in other functions as arguments). 
+
+3. Lambda functions are used along with built-in functions like filter(), map() etc.
+
+***************************************************************************************
+
