@@ -1,0 +1,17 @@
+# What are packages?
+
+Similar files are kept in the same directory, for example, 
+we may keep all the songs in the "music" directory. Similarly, 
+Python has packages for directories and modules for files.
+
+As our application program grows larger in size with a lot of 
+modules, we place similar modules in one package and different 
+modules in different packages. This makes a project (program) 
+easy to manage and conceptually clear.
+
+Similarly, as a directory can contain subdirectories and files, 
+a Python package can have sub-packages and modules.
+
+A directory must contain a file named __init__.py in order for Python 
+to consider it as a package. This file can be left empty but we generally 
+place the initialization code for that package in this file.

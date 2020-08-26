@@ -1,0 +1,1 @@
+print("Inside open module")
