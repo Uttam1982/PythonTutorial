@@ -1,0 +1,9 @@
+# Python Strings
+1. A string is a sequence of characters.
+2. A character is simply a symbol. For example, the English language has 26 characters.
+3. Computers do not deal with characters, they deal with numbers (binary).
+4. This conversion of character to a number is called encoding, and the reverse process is decoding. 
+5. ASCII and Unicode are some of the popular encodings used.
+6. In Python, a string is a sequence of Unicode characters. 
+7. Unicode was introduced to include every character in all languages and bring 
+   uniformity in encoding.
