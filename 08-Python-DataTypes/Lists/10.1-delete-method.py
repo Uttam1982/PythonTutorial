@@ -6,15 +6,15 @@ my_list = [12,23,34,45,56,67,78,89,90]
 print(my_list)
 
 #delete 2nd element 
-del(my_list[1])
+del my_list[1]
 print(my_list)
 
 # delete multiple items
-del(my_list[1 : 5])
+del my_list[1 : 5]
 print(my_list)
 
 #index out of range 
-# del(my_list[10])
+# del my_list[10]
 # print(my_list)
 
 
