@@ -1,5 +1,5 @@
 # We can use remove() method to remove the given item
-# # The remove() method removes the first matching element 
+# The remove() method removes the first matching element 
 
 my_list = [12,45,34,45,56,67,45,89,90]
 print(my_list)
