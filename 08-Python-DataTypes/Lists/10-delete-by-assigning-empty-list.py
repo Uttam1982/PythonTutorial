@@ -1,7 +1,5 @@
 # we can also delete items in a list by assigning an empty list to a slice of elements.
 
-
-
 my_list = [12,23,34,45,56,67,78,89,90]
 print(my_list)
 
