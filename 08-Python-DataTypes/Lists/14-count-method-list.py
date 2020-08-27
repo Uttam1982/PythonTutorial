@@ -6,6 +6,7 @@
 # output : 3
 my_list = [10,20,30,40,20,50,20]
 print(my_list.count(20))
+print(my_list.index(20))
 
 
 # Example 2: Count Tuple and List Elements Inside List
