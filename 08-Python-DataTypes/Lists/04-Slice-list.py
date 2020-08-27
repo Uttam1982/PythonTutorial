@@ -17,5 +17,6 @@ print('elements beginning to 4th: ',my_list[:-5])
 print('elements 6th to end: ',my_list[5:])
 print('elements 6th to end: ',my_list[-4:])
 
-
+#elements beginning to end
+print('elements beginning to end: ',my_list[:])
 
