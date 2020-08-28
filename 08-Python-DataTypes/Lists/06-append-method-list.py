@@ -4,7 +4,7 @@
 
 # Appending and Extending lists in Python
 
-# Example 2: add one elemnt on the list
+# Example 1: Add one element on the list
 my_list = [2,4,6,8]
 my_list.append(1)
 print(my_list)                        # [2, 4, 6, 8, 1]
