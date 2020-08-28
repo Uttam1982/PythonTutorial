@@ -9,7 +9,7 @@
 # Example 1: adding multiple elements
 my_list = [2,4,6,8]
 my_list.extend([10,12])
-print(my_list)
+print(my_list)          #[2, 4, 6, 8, 10, 12]
 
 
 # Example 2: Add Elements of Tuple and Set to List
