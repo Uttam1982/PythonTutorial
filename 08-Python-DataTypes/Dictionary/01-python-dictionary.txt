@@ -1,0 +1,6 @@
+# Python dictionary
+
+# Python dictionary is an unordered collection of items. 
+# Each item of a dictionary has a key/value pair.
+# Dictionaries are optimized to retrieve values when the key is known.
+
