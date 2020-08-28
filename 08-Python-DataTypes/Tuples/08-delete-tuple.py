@@ -6,11 +6,12 @@
 
 my_tuple = (12,23,34,45,56,67,78,89,90)
 
-# can't delete items
+# 1. Can't delete items
 # TypeError: 'tuple' object doesn't support item deletion
+
 #del my_tuple[3]
 
-# Can delete an entire tuple
+# 2. Can delete an entire tuple
 del my_tuple
 
 #NameError: name 'my_tuple' is not defined
