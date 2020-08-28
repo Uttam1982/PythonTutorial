@@ -16,14 +16,20 @@ print("list: ", my_list)
 
 # output 23
 print('Return value: ',my_list.pop(1))
+
+#Updated list:  [12, 34, 45, 56, 67, 78, 89, 90]
 print('Updated list: ',my_list)
 
 # output 90
 print('Return value: ',my_list.pop())
+
+#Updated list:  [12, 34, 45, 56, 67, 78, 89]
 print('Updated list: ',my_list)
 
-# output 90
+# output 89
 print('Return value: ',my_list.pop(-1))
+
+# Updated list:  [12, 34, 45, 56, 67, 78]
 print('Updated list: ',my_list)
 
 
