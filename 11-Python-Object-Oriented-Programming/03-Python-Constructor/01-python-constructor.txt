@@ -1,0 +1,27 @@
+# Python Constructor
+
+1. A constructor is a special type of method (function) 
+   which is used to initialize the instance members of the class.
+
+2. It is used to create an object.
+
+3. Constructors can be of two types.
+   a. Parameterized Constructor
+   b. Non Parameterized Constructor
+
+4. In Python, the method the __init__() simulates the constructor of the class. 
+
+5. This method is called when the class is instantiated. 
+
+6. It accepts the self-keyword as a first argument which allows accessing 
+   the attributes or method of the class.
+
+7. We can pass any number of arguments at the time of creating the class object, 
+   depending upon the __init__() defi
+   
+8. It is mostly used to initialize the class attributes. 
+
+9. Every class must have a constructor, even if it simply relies on the default constructor.
+
+
+
