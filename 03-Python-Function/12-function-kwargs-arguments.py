@@ -24,8 +24,16 @@ def basket(**kwargs):
   print("type of passed argument is ",type(kwargs)) 
   print(kwargs)
 
+  for key, value in kwargs.items():
+    print(f'key = {key}: value = {value}')
+
+
 basket(fruit='Banana')
 basket(fruit='Banana',vegetable='Carrot')
+
+#---------------------------------------------------------------------------------
+
+
 
 
 

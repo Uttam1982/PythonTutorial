@@ -5,14 +5,15 @@
 #*************************************************************************************
 # create a non-local variable
 
+z = 'global'
 def outer():
   global z
-  x = 'local'
+  x = 'outer-local'
 
   def inner():
     nonlocal x
-    x = 'non-local'
-    y= 'local'
+    x = 'inner-non-local'
+    y= 'inner-local'
     print('inner x',x)
     print('inner y',y)
   

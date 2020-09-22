@@ -34,6 +34,25 @@ def greet(*names):
 
 greet('Sara','Joe','Harry','Sam')
 
+#---------------------------------------------------------------------------------------
+
+# Python program to illustrate 
+# *args for variable number of arguments
+
+def myFun(*argv):
+  for arg in argv:
+    print(arg)
+
+myFun('Welcome','to','Python')
 
 
+#---------------------------------------------------------------------------------------
 
+def fun1(arg1, *argv):
+  print('First arguments: ',arg1)
+  for arg in argv:
+    print('Next Arguments: ',arg)
+
+fun1('Hello','Welcome','to','Python')
+
+#---------------------------------------------------------------------------------------
