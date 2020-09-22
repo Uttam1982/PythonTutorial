@@ -1,0 +1,36 @@
+# Opening Files in Python
+
+# Python has a built-in open() function to open a file. 
+# This function returns a file object, also called a handle, 
+# as it is used to read or modify the file accordingly.
+
+# We can specify the mode while opening a file. 
+# In mode, we specify whether we want to read r, write w or append a to the file. 
+
+# We can also specify if we want to open the file in text mode or binary mode.
+
+# The default is reading in text mode. 
+# In this mode, we get strings when reading from the file.
+
+# On the other hand, binary mode returns bytes and this is the mode 
+# to be used when dealing with non-text files like images or executable files.
+
+
+# f = open("test.txt")      # equivalent to 'r' or 'rt'
+# f = open("test.txt",'w')  # write in text mode
+# f = open("img.bmp",'r+b') # read and write in binary mode
+
+
+#        f = open("test.txt", mode='r', encoding='utf-8')
+
+# Unlike other languages, the character a does not imply the number 97 
+# until it is encoded using ASCII (or other equivalent encodings).
+
+# Moreover, the default encoding is platform dependent. In windows, it is cp1252 
+# but utf-8 in Linux.
+
+# So, we must not also rely on the default encoding or 
+# else our code will behave differently in different platforms.
+
+# Hence, when working with files in text mode, it is highly recommended 
+# to specify the encoding type.
