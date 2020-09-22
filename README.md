@@ -2,11 +2,27 @@
 
 Python is a powerful general-purpose programming language. Our Python tutorial will guide you to learn Python one step at a time with the help of examples.
 
-1. [8 Python Iteration Skills That Data Scientists Shouldn’t Miss Out](https://towardsdatascience.com/8-python-iteration-skills-that-data-scientists-shouldnt-miss-out-6b57fb35e00f)
+## References:
 
-2. [The Top 7 Best Github Repositories to Learn Python](https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44)
+1. [programiz](https://www.programiz.com/python-programming)
 
-3. Let’s look at some good resources for structured projects in each area:
+2. [Python Tips](https://book.pythontips.com/en/latest/index.html)
+
+3. [Python Programming Examples](https://www.geeksforgeeks.org/python-programming-examples/)
+
+4. [Output of Python Program](https://www.geeksforgeeks.org/output-python-program-set-1/)
+
+5. [Python Practice Book](https://anandology.com/python-practice-book/getting-started.html)
+
+6. [Python Examples](https://www.w3schools.com/python/python_examples.asp)
+
+7. [Python Exercise](https://www.w3schools.com/python/exercise.asp)
+
+8. [8 Python Iteration Skills That Data Scientists Shouldn’t Miss Out](https://towardsdatascience.com/8-python-iteration-skills-that-data-scientists-shouldnt-miss-out-6b57fb35e00f)
+
+9. [The Top 7 Best Github Repositories to Learn Python](https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44)
+
+10. Let’s look at some good resources for structured projects in each area:
 
 ## Data science / Machine learning
 
